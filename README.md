@@ -1,0 +1,2 @@
+# programming
+My website is about the architecture of Ethiopia. It includes the Rock-Hewn churches of Lalibela,  the obelisk of Axum and Harar jugolas subtopics. I chose this topic since I am learning in the  EIABC campus and I found this topic very relatable to the types of field we take and ofcourse  because these sites are very popoular amongst the Ethiopian population so by creating this website it's almost like describing Ethiopia as a whole. 
